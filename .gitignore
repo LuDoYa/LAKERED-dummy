@@ -1,0 +1,16 @@
+# Ignore this folder
+logs/
+ckpt/
+assets/
+dataset/
+demo/
+demo_res/
+test_log/
+baseline_results/
+
+# Ignore this file
+*.zip
+*.ckpt
+*.ipynb
+*.txt
+.env
